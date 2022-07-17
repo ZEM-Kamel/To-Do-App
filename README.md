@@ -7,7 +7,7 @@ Flutter application using Bloc,  Sqflite, and Shared Preferences.
 
 To-Do-App is a ToDo List app for Task Management inspired by the design below in the link
 
-![to-do mockup](https://drive.google.com/file/d/1Iir74JzpAW8nOSE1JrV3aVXxoSbpyzm_/view?usp=sharing)
+![to-do mockup](https://ibb.co/SKZHjvd)
 
 
 
